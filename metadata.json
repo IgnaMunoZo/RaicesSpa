@@ -1,0 +1,6 @@
+{
+  "name": "Raíces Spa",
+  "description": "Landing page exclusiva y orgánica para el centro de relajación y bienestar Raíces Spa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
